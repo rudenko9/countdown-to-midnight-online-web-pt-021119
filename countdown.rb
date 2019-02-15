@@ -1,5 +1,5 @@
 #write your code here
-integer = 0 
+integernteger = 0 
 def countdown(number)
   while integer <= 10
   puts "#{number} SECOND(S)!"
