@@ -1,4 +1,3 @@
-
 def countdown(number)
   number = 10
   while number > 0
